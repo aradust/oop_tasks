@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+out
+oop_task_1/.vs
